@@ -21,9 +21,12 @@
 | <=     |Menor ou igual quê| a <= b |
 
 - Operadores lógicos são aqueles que relacionam uma ou mais expressões lógicas, ou booleanas, ou relacionais, retornando True ou False ao final do processo.
-    - not
-    - and
-    - or
+
+| Simbolo |    Nome    | Precedência | Exemplo |
+|---------|------------|-------------|-----------|
+| not     | negação    | 1ª          | not (a > b)        | 
+| and     | conjunção  | 2ª | a > b and a < c   |
+| or      | disjunção  | 3ª | a > b or a < c     |
 
 
 ### Aula 4 - Funções em python
