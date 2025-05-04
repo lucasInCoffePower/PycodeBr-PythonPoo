@@ -8,14 +8,16 @@
 - Strings são uma sequência de caracteres alfanuméricos, sendo essecialmente, um lista ordenada de caracteres individuais;
 
 
-### Aula 3 - Estudo de operadores lógicos e operadores relacionais
+### Aula 3 - Estudo de operadores relacionais e operadores lógicos
 - Operadores relacionais são aqueles que relacionam um ou mais valores, contruindo expressões lógicas ou booleanas, e que retornam um valor True ou False a depender operador e dos valores relacionados
-    - !=
-    - ==
-    - >
-    - <
-    - >=
-    - <=
+|Simbolo |Nome| Exemplo|
+| !=     |Diferente| a != b|
+| ==     |Igual| a == b|
+| >      |Maior quê| a>b|
+| <      |Menor quê| a < b|
+| >=     |Maior ou igual quê| a >= b|
+| <=     |Menor ou igual quê| a <= b|
+
 - Operadores lógicos são aqueles que relacionam uma ou mais expressões lógicas, ou booleanas, ou relacionais, retornando True ou False ao final do processo.
     - not
     - and
