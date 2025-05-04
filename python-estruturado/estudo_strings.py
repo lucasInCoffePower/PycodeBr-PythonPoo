@@ -65,6 +65,6 @@ print(palavra2)
 print(palavra2.replace(' ',''))
 
 # Somando strings
-nome = Daniel
-sobrenome = Carlos
+nome = 'Daniel'
+sobrenome = ' Carlos'
 print(nome + sobrenome)

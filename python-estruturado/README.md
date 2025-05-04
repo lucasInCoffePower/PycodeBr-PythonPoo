@@ -9,7 +9,7 @@
 
 
 ### Aula 3 - Estudo de operadores relacionais e operadores lógicos
-- Operadores relacionais são aqueles que relacionam um ou mais valores, contruindo expressões lógicas ou booleanas, e que retornam um valor True ou False a depender operador e dos valores relacionados
+- Operadores relacionais são aqueles que relacionam um ou mais valores, contruindo expressões lógicas ou booleanas, e que retornam um valor True ou False a depender operador e dos valores relacionados. A precedência é de quem vier primeiro ou que estiver entre parênteses.
 
 |  Simbolo |      Nome        |  Exemplo |
 |----------|------------------|----------|
@@ -30,7 +30,15 @@
 
 
 ### Aula 4 - Funções em python
-
+É um bloco de código que pode ser executado em qualquer parte do código e que executa uma ação.
+- Benefícios: 
+    - Modular o código;
+    - Código mais organizado;
+    - Reuso de código;
+    - Facilita a manutenção;
+Há dois tipos de blocos de códigos do tipo: Procedimentos e funções
+- Funções retornam algum processamento. São usadas quando é necessário retornar algum valor.
+- Procedimentos nunca retornam um valor de saída. São usados para modificar ações. 
 
 
 ### Aula 5 - Estruturas de repetição

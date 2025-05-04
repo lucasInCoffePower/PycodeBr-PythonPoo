@@ -1,7 +1,6 @@
-# Arquivo para estudo de operadores lógicos e operadores relacionais
-
-# Operadores lógicos: not, and, or
-# Operadores relacionais: !=, ==, >, <, >=, <=
+"""Arquivo para estudo de operadores lógicos e operadores relacionais
+Operadores lógicos: not, and, or
+Operadores relacionais: !=, ==, >, <, >=, <="""
 
 # Análise da condição com and
 a = True
@@ -51,13 +50,3 @@ if peso == 69 or nome == 'Daniel' and idade == 40:
     print('Dados corretos!')
 else:
     print('Dados incorretos!')
-    
-    
-# O or tem menor prioridade sobre o and: todos os and são executados, depois o or é executado
-if peso == 69 or nome == 'Daniel' and idade == 40: 
-    print('Dados corretos!')
-else:
-    print('Dados incorretos!')
-
-
-    
