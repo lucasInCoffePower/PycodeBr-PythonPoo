@@ -24,9 +24,9 @@
 
 | Simbolo |    Nome    | Precedência |     Exemplo     |
 |---------|------------|-------------|-----------------|
-| not     | negação    |      1ª     |    not (a > b)  | 
-| and     | conjunção  |      2ª     | a > b and a < c |
-| or      | disjunção  |      3ª     | a > b or a < c  |
+| `not`   | negação    |      1ª     |    not (a > b)  | 
+| `and`   | conjunção  |      2ª     | a > b and a < c |
+| `or`    | disjunção  |      3ª     | a > b or a < c  |
 
 
 ### Aula 4 - Funções em python
