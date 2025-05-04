@@ -11,8 +11,8 @@
 ### Aula 3 - Estudo de operadores relacionais e operadores lógicos
 - Operadores relacionais são aqueles que relacionam um ou mais valores, contruindo expressões lógicas ou booleanas, e que retornam um valor True ou False a depender operador e dos valores relacionados
 
-|Simbolo |Nome              | Exemplo|
-|--------|------------------|--------|
+|  Simbolo |      Nome        |  Exemplo |
+|----------|------------------|----------|
 | `!=`     |Diferente         | `a != b` |
 | `==`     |Igual             | `a == b` |
 | `>`      |Maior quê         | `a > b`  |
