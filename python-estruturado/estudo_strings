@@ -1,9 +1,9 @@
 # slicing:  percorrer a string e retorna uma substring
 texto = 'AULA PYCODEBR'
-print(texto[0])
-print(texto[4])
-print(texto[-1])
-print(texto[5:11])
+print(texto[0]) # Retorna o elemento da posição 1 e de índice 0
+print(texto[4]) # Retorna o elemento da posição 4 e de índice 3
+print(texto[-1]) # Retorna o elemento da última posição, de índice "tamanho da string - 1"
+print(texto[5:11]) # Retorna o elementre entre os índices 4 e 10 de intervalo fechado
 print(texto[5:13]) # Pega do 4 até o 12
 print(texto[5:]) # Pega até o último caractere
 
