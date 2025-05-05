@@ -31,4 +31,31 @@ while x!=10:
 else:
     print('x = {}'.format(x))
 
-# break: é uma palavra chave utilizada para interromper um loop;
+# break: é uma palavra chave utilizada para interromper um loop. Pode ser usado no while e no for
+for i in range(10):
+    if i == 5:
+        print('Interrompendo o loop no {}'.format(i))
+        break
+    print(i)
+
+# continue: é uma palavra chave utilizada para pular uma iteração em um loop. Ele não interrompe o loop
+
+## For: Pulando a iteração do valor 5
+for i in range(10):
+    if  i == 5:
+        print(f'Pulando no {5}')
+        continue 
+    print(i)
+
+## While: Pulando a iteração no valor 2
+a = 0
+while a < 10:
+    if a == 2:
+        print(f'Pulando no {a}')
+        a +=1
+        continue
+    print(a)
+    a +=1
+
+    
+        
