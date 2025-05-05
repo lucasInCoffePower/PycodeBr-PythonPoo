@@ -35,13 +35,16 @@
     - Modular o código;
     - Código mais organizado;
     - Reuso de código;
-    - Facilita a manutenção;
+    - Facilita a manutenção;    
 Há dois tipos de blocos de códigos do tipo: Procedimentos e funções
 - Funções retornam algum processamento. São usadas quando é necessário retornar algum valor.
 - Procedimentos nunca retornam um valor de saída. São usados para modificar ações. 
 
 
 ### Aula 5 - Estruturas de repetição
+Laço For é uma estrutura de repetição utilizada para quando se sabe a quantidade de execuções que um bloco terá ou que se sabe que terá um fim na estrutura iterada.
+Laço while é uma estrutura de repetição utilizada quando não se sabe a quantidade de execuções que um bloco terá. Ela é limitada a uma condicional.
+
 
 
 ### Aula 6 - Estruturas de dados
