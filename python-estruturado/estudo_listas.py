@@ -59,8 +59,20 @@ print(numeros)
 print(misto)
 nomes.sort()
 numeros.sort()
-misto.sort()
+# misto.sort() -> Dá erro porque internamente a forma como o python ordena a lista é fazendo comparações entre os elementos, e como não é possível compara str com int, resulta emum erro
 print(nomes) # ordena por ordem alfabética
 print(numeros) # ordena por ordem numérica crescente.
-# print(misto) -> Dá erro porque internamente a forma como o python ordena a lista é fazendo comparações entre os elementos, e como não é possível compara str com int, resulta emum erro
+print(misto) 
 
+# slice: São operações que retornam uma nova lista de uma lista existente
+
+veiculos = ['Motos', 'Carros', 'Jipes', 'JetSki']
+print(veiculos[0:])   # Mostra do primeiro ao último
+print(veiculos[1:])   # mostra da segunda posição à última
+print(veiculos[-1:])  # Mostra a última
+print(veiculos[:])    # Mostra todos
+print(veiculos[:-1])  # Mostra do primeiro excluido o último
+print(veiculos[:-2])  # Mostra do primeiro excluido os dois últimos
+print(veiculos[::-1]) # inverte a ordem de exibição
+print(veiculos[::2])  # Mostra pulando de dois em dois
+print(veiculos[0:4:])  # 
