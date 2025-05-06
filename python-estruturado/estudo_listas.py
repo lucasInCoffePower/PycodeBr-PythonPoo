@@ -21,3 +21,11 @@ nomes = ['Carla', 'Mateus', 'João']
 print(nomes)
 nomes.insert(1, 'Daniela')
 print(nomes)
+
+# .pop(): Remove o último elemento da lista
+nomes = ['Carla', 'Mateus', 'João']
+print(nomes)
+nomes.pop()
+print(nomes)
+
+# 
