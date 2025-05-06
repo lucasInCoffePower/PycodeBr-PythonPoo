@@ -28,4 +28,8 @@ print(nomes)
 nomes.pop()
 print(nomes)
 
-# 
+# del lista: remove um elemento de acordo com o índice
+nomes = ['Carla', 'Mateus', 'João']
+print(nomes)
+del nomes[0]
+print(nomes)
