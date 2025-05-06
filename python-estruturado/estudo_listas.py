@@ -33,3 +33,13 @@ nomes = ['Carla', 'Mateus', 'João']
 print(nomes)
 del nomes[0]
 print(nomes)
+
+# .remove(): Remove um elemento de acordo com o valor. (se tiver mais de um mesmo valor, remove o primeiro)
+nomes = ['Carla', 'Daniele', 'Carla']
+print(nomes)
+nomes.remove('Carla')
+print(nomes)
+
+# .count(): Conta a quantidade de elementos dentro de uma lista
+nomes = ['Carla', 'Daniele', 'Carla']
+print(nomes.count('Carla'))
