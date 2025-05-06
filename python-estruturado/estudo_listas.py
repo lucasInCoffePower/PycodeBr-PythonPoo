@@ -60,6 +60,7 @@ print(misto)
 nomes.sort()
 numeros.sort()
 misto.sort()
-print(nomes)
-print(numeros)
-print(misto)
+print(nomes) # ordena por ordem alfabética
+print(numeros) # ordena por ordem numérica crescente.
+# print(misto) -> Dá erro porque internamente a forma como o python ordena a lista é fazendo comparações entre os elementos, e como não é possível compara str com int, resulta emum erro
+
