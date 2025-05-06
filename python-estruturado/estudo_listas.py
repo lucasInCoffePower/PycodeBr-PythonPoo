@@ -49,3 +49,17 @@ nomes = [1,2,3,4,5]
 print(nomes)
 nomes.reverse() # retorna None
 print(nomes)
+
+# Ordenar a lista de forma alfanuméria
+nomes = ['Carla', 'Daniele', 'Carla']
+numeros = [1,0,5,3,10,2]
+misto = [1, 'Carla', 2.5, 3, 'Dan']
+print(nomes)
+print(numeros)
+print(misto)
+nomes.sort()
+numeros.sort()
+misto.sort()
+print(nomes)
+print(numeros)
+print(misto)
