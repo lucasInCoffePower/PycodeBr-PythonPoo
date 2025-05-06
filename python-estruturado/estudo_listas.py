@@ -43,3 +43,9 @@ print(nomes)
 # .count(): Conta a quantidade de elementos dentro de uma lista
 nomes = ['Carla', 'Daniele', 'Carla']
 print(nomes.count('Carla'))
+
+# .rever(): Inverte a ordem dos elementos em uma lista
+nomes = [1,2,3,4,5]
+print(nomes)
+nomes.reverse() # retorna None
+print(nomes)
