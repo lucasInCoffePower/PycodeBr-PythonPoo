@@ -75,4 +75,7 @@ print(veiculos[:-1])  # Mostra do primeiro excluido o último
 print(veiculos[:-2])  # Mostra do primeiro excluido os dois últimos
 print(veiculos[::-1]) # inverte a ordem de exibição
 print(veiculos[::2])  # Mostra pulando de dois em dois
-print(veiculos[0:4:])  # 
+print(veiculos[0:4:]) # Indo do primeiro ao quarto
+print(veiculos[2::]) # Comecando do segundo
+print(veiculos[2:3:]) # Comecando do segundo ao terceiro
+print(veiculos[:2:]) # Indo do primeiro ao segundo
