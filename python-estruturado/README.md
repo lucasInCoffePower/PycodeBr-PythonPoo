@@ -51,7 +51,8 @@ Laço while é uma estrutura de repetição utilizada quando não se sabe a quan
 
 
 ### Aula 7 - Listas e seus métodos
-Lista é uma estruturas de dados, que é um método utilizada para organizar o dados de sequencial e iterável. No caso de python, uma lista é heterogêna, ou seja, armazena dados de qualquer tipo. 
+Lista é uma estruturas de dados, que é um método utilizada para organizar o dados de sequencial e iterável. No caso de python, uma lista é heterogêna, ou seja, armazena dados de qualquer tipo.
+
 
 
 ### Aula 8 - Compressão de listas e de dicionários
@@ -59,3 +60,11 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 
 ### Aula 9 - Variável de ambiente
 
+
+### Aula extra - tuplas
+
+
+### Aula extra - conjuntos
+
+
+### Aula extra - Módulos 
