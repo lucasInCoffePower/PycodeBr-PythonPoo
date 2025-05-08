@@ -80,8 +80,20 @@ print(veiculos[2::]) # Comecando do segundo
 print(veiculos[2:3:]) # Comecando do segundo ao terceiro
 print(veiculos[:2:]) # Indo do primeiro ao segundo
 
-# .clear() remover todos os elementos da lista
+# .clear(): remover todos os elementos da lista
 caracteres = ['a', 'b', '#']
 print(caracteres)
 caracteres.clear()
 print(caracteres)
+
+# .index(elemento, indice_inicio): Retorna o índice do elemento. Por padrão o índice é 0
+caracteres = ['a', 'b', '#','b']
+print(caracteres.index('b'))
+print(caracteres.index('b', 2))
+
+# .copy(): retorna uma cópia da lista. É ideal para manipular o conteúdo de uma lista sem afetar a original.
+nomes = ['Danie', 'Carlos', 'Daniel']
+nomes2 = nomes.copy()
+nomes2.append('Jenifer')
+print(nomes)
+print(nomes2)
