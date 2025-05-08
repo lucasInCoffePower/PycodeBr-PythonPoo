@@ -79,3 +79,9 @@ print(veiculos[0:4:]) # Indo do primeiro ao quarto
 print(veiculos[2::]) # Comecando do segundo
 print(veiculos[2:3:]) # Comecando do segundo ao terceiro
 print(veiculos[:2:]) # Indo do primeiro ao segundo
+
+# .clear() remover todos os elementos da lista
+caracteres = ['a', 'b', '#']
+print(caracteres)
+caracteres.clear()
+print(caracteres)
