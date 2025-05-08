@@ -62,9 +62,9 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 
 
 ### Aula extra - tuplas
-
+É uma estrutura de dados
 
 ### Aula extra - conjuntos
-
+É uma estrutura de dados
 
 ### Aula extra - Módulos
