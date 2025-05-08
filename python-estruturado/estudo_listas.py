@@ -97,3 +97,10 @@ nomes2 = nomes.copy()
 nomes2.append('Jenifer')
 print(nomes)
 print(nomes2)
+
+
+# .extend(lista): Adiciona todos os elementos de uma lista em outra
+smartphones = ['apple', 'samsung', 'huawei', 'nokia', 'motorola']
+celulares = ['lenovo']
+smartphones.extend(celulares)
+print(smartphones)
