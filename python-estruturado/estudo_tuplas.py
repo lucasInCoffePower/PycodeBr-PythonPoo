@@ -2,7 +2,7 @@
     Estudo tuplas
 '''
 
-# tuplas: Coleções ordenadas, imutáveis, heterogênea, que permitem valores duplicados e iteráveis
+# tuplas: Coleções ordenadas, imutáveis, heterogênea, que permitem valores duplicados, e que é iteráveis
 
 ## criando tupla
 frutas = ('banana', 'maçã', 'pera')
@@ -48,3 +48,7 @@ print(veiculos)
 ## Repetição
 motos2 = motos * 3
 print(motos2)
+
+## Slice 
+print(pessoas)
+print(pessoas[1:4:2])
