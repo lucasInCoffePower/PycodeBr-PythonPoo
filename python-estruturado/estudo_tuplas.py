@@ -7,3 +7,8 @@
 ## criando tupla
 frutas = ('banana', 'maçã', 'pera')
 print(frutas) 
+
+
+## Verificando quantidade de elementos
+print(len(frutas))
+
