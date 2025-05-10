@@ -47,7 +47,8 @@ Laço while é uma estrutura de repetição utilizada quando não se sabe a quan
 
 
 
-### Aula 6 - Estruturas de dados
+### Aula 6 - Dicionários e seus métodos
+
 
 
 ### Aula 7 - Listas e seus métodos
@@ -55,7 +56,7 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 
 
 
-### Aula 8 - Compressão de listas e de dicionários
+### Aula 8 - Compressão de listas 
 
 
 ### Aula 9 - Variável de ambiente
@@ -68,5 +69,47 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 Os `sets` são estruturas de dados mutáveis, iteráveis, heterogêneas e não ordenadas. Elas não admitem elementos repetidos.
 Os `frozensets` são estruturas de dados imutáveis, iteráveis e não ordenadas. Elas não admitem elementos repetidos.
 
+
+### Aula extra - Geradores
+
+
+### Aula extra - compressão de dicionários
+
+
+### Aula extra - Compressão de conjuntos
+
+
+### Aula extra - Compressão de Geradores
+
+
+### Aula extra - Operadores aritméticos
+
+
+### Aula extra - Tipos de dados e casting
+
+
+### Aula extra - formatação de strings
+
+
+### Aula extra - REGEX
+
+
+### Aula extra - Operadores de associação e identidade
+
+
+### Aula extra - Tratamento de erros
+
+
+### Aula extra - Trabalhando com arquivos
+
+
+### Aula extra - Collections em python
+
+
+### Aula extra - 
+
 ### Aula extra - Módulos
 Como organizar os arquivos 
+
+
+
