@@ -62,10 +62,11 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 
 
 ### Aula extra - tuplas
-É uma estrutura de dados
+`Tuple` é uma estrutura de dados iterável, ordenada, imutável, heterogênea e que admite valores duplicados. 
 
-### Aula extra - conjuntos
-É uma estrutura de dados
+### Aula extra - conjuntos: sets e frozensets
+Os `sets` são estruturas de dados mutáveis, iteráveis, heterogêneas e não ordenadas. Elas não admitem elementos repetidos.
+Os `frozensets` são estruturas de dados imutáveis, iteráveis e não ordenadas. Elas não admitem elementos repetidos.
 
 ### Aula extra - Módulos
 Como organizar os arquivos 
