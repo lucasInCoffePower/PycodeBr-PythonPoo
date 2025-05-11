@@ -60,6 +60,9 @@ Lista é uma estruturas de dados, que é um método utilizada para organizar o d
 
 
 ### Aula 9 - Variável de ambiente
+É uma variável criada no sistema operacional no qual o programa roda, ou seja, não é criada durante o programa.
+Essa variável pode ser importada para o programa utilizando funções específicas e manipulada através do fluxo do programa, inclusive podendo ser alterada através do programa.
+
 
 
 ### Aula extra - tuplas
