@@ -10,8 +10,8 @@ import os # importando funções de biblioteca que controla a API do SO
 
 api_key = os.getenv("API_KEY") # Lendo variável
 api_key2 = os.environ.get("API_KEY") # Lendo variável
-print(api_key)
-print(api_key2)
+print(api_key) # Mostrando valor coletado
+print(api_key2) # Mostrando valor coletado
 print(type(api_key)) # Tipo é sempre string
 print(len(os.environ)) # Verificando
 os.environ["API_KEY"] = "25" # Alterando variável de ambiente
