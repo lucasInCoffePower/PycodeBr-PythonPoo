@@ -1,9 +1,12 @@
 '''
     Variáveis de ambiente em python
     
-    Definição windows
+    Definição windows para variável temporária
         - PowerShell : $env:nome_variavel=valor
         - CMD : set nome_variavel=valor
+    Definição Linux para variável temporária
+        - export nome_variavel="valor"
+    
 '''
 
 import os # importando funções de biblioteca que controla a API do SO
