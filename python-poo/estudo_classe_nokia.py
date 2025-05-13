@@ -32,4 +32,4 @@ celular = Celular()
 print(celular) # mostra o endereço da classe
 print(celular.modelo) # mostrando propriedade
 celular.despertador() # executando função
-print(celular.calcular(2,3))
+print(celular.calcular(2,3)) # Chamando função para calcular valor
