@@ -1,5 +1,5 @@
 '''
-    Representando um nokia
+    Classe que representa o comportamento de um celular nokia tijolão
 '''
 
 
