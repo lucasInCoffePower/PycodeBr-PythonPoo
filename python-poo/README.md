@@ -14,6 +14,7 @@ Programação orientada a objetos é uma forma de representar uma entidade do mu
 
 
 ## Aula extra - Abstração
+Entendimento do que fazer para
 
 
 ## Aula extra - Encapsulamento
