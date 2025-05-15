@@ -20,4 +20,4 @@ Entendimento do que fazer para
 ## Aula extra - Encapsulamento
 
 
-## Aula extra - Aprendendo a 
+## Aula extra - Aprendendo sobre diagramas de modelagem de classe
