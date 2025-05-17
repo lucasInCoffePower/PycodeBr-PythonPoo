@@ -21,4 +21,4 @@ Entendimento do que fazer para
 
 
 ## Aula extra - Aprendendo sobre diagramas de modelagem de classe
-Diagramas
+Diagramas para modelar classes.
