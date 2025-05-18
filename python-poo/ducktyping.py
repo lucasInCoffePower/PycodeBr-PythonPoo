@@ -4,8 +4,6 @@
     Classes diferentes implementam comportamentos com a mesma assinatura, sem precisar de herança.
     Dessa forma, é possível chamar a mesma função variando apenas o objeto utilizado.
     Duck typing: "Se anda como um pato e grasna como um pato, é um pato."
-
-
 '''
 
 
@@ -46,7 +44,7 @@ class Matematico:
         return self.calculadora.somar(n1, n2)
     
     def calculadora_usada(self):
-        print(f'{type(self.calculadora)}')
+        print(f'{type(self.calculadora).__name__}')
 
 if __name__ == '__main__':
     cientifica = CalculadoraCientifica()
