@@ -18,7 +18,7 @@ Entendimento do que fazer para
 
 
 ## Aula extra - Encapsulamento
-
+Encapsulamento
 
 ## Aula extra - Aprendendo sobre diagramas de modelagem de classe
 Diagramas para modelar classes.
